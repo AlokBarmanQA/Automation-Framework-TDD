@@ -1,0 +1,22 @@
+03:28:11.187 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+03:28:11.195 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+03:28:11.195 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.delayedQueue.ratio: 8
+03:28:13.982 [TestNG-tests-2] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x3adcc5f456b58c9c
+03:28:15.717 [TestNG-tests-1] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Browser got launched
+03:28:15.777 [TestNG-tests-3] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Browser got launched
+03:28:15.845 [TestNG-tests-4] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Browser got launched
+03:28:15.859 [TestNG-tests-2] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Browser got launched
+03:28:21.242 [TestNG-tests-3] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Navigated to application URL
+03:28:21.831 [TestNG-tests-1] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Navigated to application URL
+03:28:22.344 [TestNG-tests-1] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Clicked on My Account dropdown
+03:28:22.888 [TestNG-tests-4] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Navigated to application URL
+03:28:22.903 [TestNG-tests-2] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Navigated to application URL
+03:28:23.390 [TestNG-tests-1] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Clicked on login button
+03:28:24.951 [TestNG-tests-2] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Browser got closed
+03:28:26.988 [TestNG-tests-4] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Browser got closed
+03:28:27.327 [TestNG-tests-3] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Browser got closed
+03:28:35.913 [TestNG-tests-1] DEBUG tests.Tutorials_Ninja_Login_Page_Test - User got logged in
+03:28:35.913 [TestNG-tests-1] INFO  tests.Tutorials_Ninja_Login_Page_Test - Login test got passed
+03:28:35.999 [TestNG-tests-1] DEBUG tests.Tutorials_Ninja_Login_Page_Test - Browser got closed
+03:28:36.248 [AsyncHttpClient-1-6] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-6
+03:28:36.249 [AsyncHttpClient-1-7] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-7
